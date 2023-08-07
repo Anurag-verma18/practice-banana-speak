@@ -1,1 +1,1 @@
-# This is a fun translator which uses an Minions Speak API to convert English to minion speak.
+# This is a fun translator which uses a Minions Speak API to convert English to minion speak.
